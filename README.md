@@ -1,0 +1,2 @@
+# permission-camera
+permission camera
